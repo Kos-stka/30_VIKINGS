@@ -1,2 +1,11 @@
 _pycache_/
 .vscode/
+__pycache__/constants.cpython-39.pyc
+__pycache__/bg_level.cpython-39.pyc
+__pycache__/spritesheet.cpython-39.pyc
+__pycache__/spriteanim.cpython-39.pyc
+__pycache__/map_platform.cpython-39.pyc
+__pycache__/map_ladder.cpython-39.pyc
+__pycache__/map_decor.cpython-39.pyc
+__pycache__/level_01.cpython-39.pyc
+__pycache__/hero_erik.cpython-39.pyc
